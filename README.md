@@ -1,2 +1,2 @@
 # react-exer-b
-Exercícios básicos com React, primeiras impressões e conceitos 
+Exercícios básicos com React e Redux, primeiras impressões e conceitos 
