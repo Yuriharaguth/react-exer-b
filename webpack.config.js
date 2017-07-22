@@ -1,7 +1,7 @@
 const webpack = require('webpack')
 
 module.exports = {
-    entry: './ex.11/index.jsx',
+    entry: './ex.12/index.jsx',
     output: {
         path: __dirname + '/public',
         filename: './bundle.js'
